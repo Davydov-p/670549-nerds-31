@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Павел Давыдов](https://up.htmlacademy.ru/htmlcss/31/user/670549).
-* Наставник: `Неизвестно`.
+* Наставник: [Артем Шомин](https://htmlacademy.ru/profile/sirnet).
 
 ---
 
